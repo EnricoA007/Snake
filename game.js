@@ -76,7 +76,7 @@ function isOnCorner() {
 
 function gameOver() {
     window.alert("Dein Score: " + eaten);
-    window.location = "/";
+    window.location = "/Snake";
 }
 
 function isEating() {
