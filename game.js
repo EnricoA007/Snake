@@ -5,7 +5,7 @@ const movement = 1;
 const colors = ["#aad751", "#a2d149"]
 //const colors = ["#ffaa00", "#ffff00"]
 const apple = new Image();
-apple.src = "/resources/apple.png";
+apple.src = "resources/apple.png";
 
 let applePos = [14, 8];
 let snakeHeadPos = [8, 8];
